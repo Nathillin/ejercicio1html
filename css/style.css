@@ -1,0 +1,58 @@
+/*determinar como hacer los estilos*/
+/*regrla-selector-propiedad*/
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze:wght@100&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Grenze:wght@100&family=Shizuru&display=swap');
+
+body{background-color: #fff7c0;}
+
+h1 {color: #fa7c92;
+    font-size: 55px;
+    font-family: 'Shizuru', cursive;
+    text-align: center;}
+
+h2 {color: #6ec4db);
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: overline;}
+
+span{font-weight: lighter;
+    font-size: 16pt;}
+
+p{color: #66ab86;
+    font-family: 'Gabriela', serif;
+    text-align: center;}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+/*Alineacion left right center justify*/
+
+a:visited{
+    color:azure;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color:aliceblue
+}
+
+.amarillo{
+    color:bisque
+}
+
+.azul{
+    color:aqua
+}
+
+#caja{
+    background-color: #6ec4d8;
+}
+
+
+
+
